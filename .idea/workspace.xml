@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="558c683d-8333-4052-b3af-c19030dea727" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gbc-lecture-45-Blackjack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blackjack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._Blackjack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._cards" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._10_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._10_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._10_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._10_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._10_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._10_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._10_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._10_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._1_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._1_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._1_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._1_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._1_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._1_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._1_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._1_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._2_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._2_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._2_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._2_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._2_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._2_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._2_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._2_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._3_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._3_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._3_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._3_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._3_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._3_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._3_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._3_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._4_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._4_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._4_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._4_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._4_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._4_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._4_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._4_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._5_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._5_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._5_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._5_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._5_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._5_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._5_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._5_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._6_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._6_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._6_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._6_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._6_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._6_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._6_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._6_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._7_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._7_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._7_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._7_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._7_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._7_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._7_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._7_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._8_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._8_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._8_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._8_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._8_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._8_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._8_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._8_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._9_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._9_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._9_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._9_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._9_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._9_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._9_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._9_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._AUTHORS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._COPYING" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._Changelog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._NEWS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._black_joker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._jack_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._jack_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._jack_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._jack_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._jack_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._jack_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._jack_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._jack_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._king_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._king_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._king_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._king_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._king_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._king_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._king_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._king_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._queen_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._queen_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._queen_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._queen_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._queen_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._queen_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._queen_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._queen_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/cards/._red_joker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blackjack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/10_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/10_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/10_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/10_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/10_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/10_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/10_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/10_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/1_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/1_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/1_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/1_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/1_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/1_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/1_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/1_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/2_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/2_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/2_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/2_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/2_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/2_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/2_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/2_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/3_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/3_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/3_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/3_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/3_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/3_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/3_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/3_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/4_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/4_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/4_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/4_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/4_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/4_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/4_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/4_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/5_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/5_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/5_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/5_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/5_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/5_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/5_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/5_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/6_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/6_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/6_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/6_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/6_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/6_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/6_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/6_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/7_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/7_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/7_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/7_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/7_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/7_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/7_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/7_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/8_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/8_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/8_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/8_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/8_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/8_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/8_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/8_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/9_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/9_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/9_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/9_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/9_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/9_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/9_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/9_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/AUTHORS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/COPYING" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/Changelog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/NEWS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/black_joker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/jack_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/jack_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/jack_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/jack_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/jack_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/jack_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/jack_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/jack_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/king_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/king_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/king_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/king_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/king_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/king_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/king_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/king_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/queen_club.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/queen_club.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/queen_diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/queen_diamond.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/queen_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/queen_heart.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/queen_spade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/queen_spade.ppm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cards/red_joker.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1iXlfSaoqwn4rrChuWvIzVVaKht" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="blackjack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gbc-lecture-45-Blackjack" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blackjack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.blackjack" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="558c683d-8333-4052-b3af-c19030dea727" name="Default Changelist" comment="" />
+      <created>1602061920747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602061920747</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="379" y="164" key="#Notifications" timestamp="1602061986396">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="379" y="164" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1602061986396" />
+    <state x="482" y="238" key="Github.ShareDialog" timestamp="1602062196792">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="482" y="238" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1602062196792" />
+    <state x="399" y="45" key="Github.UntrackedFilesDialog" timestamp="1602061956612">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="399" y="45" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1602061956612" />
+    <state width="601" height="147" key="GridCell.Tab.0.bottom" timestamp="1602062267371">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="601" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602062267371" />
+    <state width="601" height="147" key="GridCell.Tab.0.center" timestamp="1602062267371">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="601" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602062267371" />
+    <state width="601" height="147" key="GridCell.Tab.0.left" timestamp="1602062267371">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="601" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602062267371" />
+    <state width="601" height="147" key="GridCell.Tab.0.right" timestamp="1602062267371">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="601" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602062267371" />
+    <state x="458" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602062293661">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="458" y="254" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1602062293661" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1602062244540">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1602062244540" />
+  </component>
+</project>
